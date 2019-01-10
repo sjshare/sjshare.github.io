@@ -1,2 +1,2 @@
-# [sjshare.github.io](https://sjshare.github.io?_blank)
+# [sjshare.github.io](https://sjshare.github.io)
 个人主页
